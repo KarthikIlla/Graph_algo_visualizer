@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Graph_algo_visualizer/static/css/main.177b8d44.css",
+    "main.js": "/Graph_algo_visualizer/static/js/main.9d337a89.js",
+    "static/js/787.05548141.chunk.js": "/Graph_algo_visualizer/static/js/787.05548141.chunk.js",
+    "static/media/3.png": "/Graph_algo_visualizer/static/media/3.028f84b7c55e6a45a154.png",
+    "static/media/6.png": "/Graph_algo_visualizer/static/media/6.c40738e860c13cfdea10.png",
+    "static/media/2.png": "/Graph_algo_visualizer/static/media/2.93c1c3bc521b458e143b.png",
+    "static/media/5.png": "/Graph_algo_visualizer/static/media/5.e4002cb6b1266b6c4bbf.png",
+    "static/media/4.png": "/Graph_algo_visualizer/static/media/4.fc74f1be536c331b3797.png",
+    "static/media/upleft-arrow.png": "/Graph_algo_visualizer/static/media/upleft-arrow.40cea62dff2427bd5f3e.png",
+    "static/media/downright-arrow.png": "/Graph_algo_visualizer/static/media/downright-arrow.a508c135038692b707c6.png",
+    "static/media/downleft-arrow.png": "/Graph_algo_visualizer/static/media/downleft-arrow.81d72e87342904fa10ae.png",
+    "static/media/upright-arrow.png": "/Graph_algo_visualizer/static/media/upright-arrow.665f2d5927dbc1fbe817.png",
+    "static/media/three.png": "/Graph_algo_visualizer/static/media/three.be52c41108d1c7096016.png",
+    "static/media/six.png": "/Graph_algo_visualizer/static/media/six.51ef3208f2556b2f0f16.png",
+    "static/media/two.png": "/Graph_algo_visualizer/static/media/two.5d63dfb2acd027e738a0.png",
+    "static/media/five.png": "/Graph_algo_visualizer/static/media/five.e4efda9e38e806d9377f.png",
+    "static/media/four.png": "/Graph_algo_visualizer/static/media/four.9bba142ffdd454478caf.png",
+    "static/media/start.svg": "/Graph_algo_visualizer/static/media/start.753e2e67999bf331bb4d5a5d913ac823.svg",
+    "static/media/end.svg": "/Graph_algo_visualizer/static/media/end.82e95fdd640d5c8343cbaec010055558.svg",
+    "static/media/station.svg": "/Graph_algo_visualizer/static/media/station.bb4141db6ecedf08b2b12999662949a2.svg",
+    "index.html": "/Graph_algo_visualizer/index.html",
+    "main.177b8d44.css.map": "/Graph_algo_visualizer/static/css/main.177b8d44.css.map",
+    "main.9d337a89.js.map": "/Graph_algo_visualizer/static/js/main.9d337a89.js.map",
+    "787.05548141.chunk.js.map": "/Graph_algo_visualizer/static/js/787.05548141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177b8d44.css",
+    "static/js/main.9d337a89.js"
+  ]
+}
