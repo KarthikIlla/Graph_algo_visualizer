@@ -1,3 +1,3 @@
-# PathFinding-Visualizer
+# Graph Algorithms Visualizer Using React.JS
 
-Access the website here: https://algorithmsvisualizer.github.io/PathFinding-Visualizer/
+
